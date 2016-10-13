@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NameFormater</string>
+    <string name="name_format_text_view">Name Format</string>
+    <string name="first_middle_last">First,Middle,Last</string>
+    <string name="first_name_and_middile_namd_and_last_name_hint">First name and Middile namd and Last name format</string>
+    <string name="first_last">First,Last</string>
+    <string name="first_name_and_last_name_hint">First name and Last name format</string>
+    <string name="last_first_middle">Last,First,Middle</string>
+    <string name="last_name_and_first_name_and_middle_name_hint">Last name and First name and Middle name format</string>
+    <string name="last_first">Last,First</string>
+    <string name="last_name_and_first_name_hint">Last name and First name Format</string>
+    <string name="first_name_edit_text_hint">First Name</string>
+    <string name="middile_name_edit_text_hint">Middile Name</string>
+    <string name="last_name_edit_text_hint">Last Name</string>
+</resources>
